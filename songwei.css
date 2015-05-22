@@ -1,0 +1,15 @@
+.head li {
+display: inline;
+position: fixed;
+top: 30px;
+}
+
+.jumbotron{
+	background-image: url('IMG_6049.JPG'); 
+	height: auto;
+	background-image-size: auto;
+}
+
+.row a{
+border-image-width: 20px;
+}
