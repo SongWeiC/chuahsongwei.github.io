@@ -1,0 +1,56 @@
+.row1{
+	background-color: gray;
+}
+.row1 img{
+	width: 60px;
+height: 60px;
+}
+.row1 li1{
+text-align: center;
+margin-left: 5%;
+}
+.row1 li2{
+text-align: center;
+margin-left: 5%;
+}
+.row1 li3{
+text-align: center;
+margin-left: 5%;
+}
+
+.jumbotron{
+	background-color: black; 
+	height: auto;
+	background-image-size: auto;
+}
+.jumbotron h1{
+	color: white;
+	text-align: center;
+	font-size: 60px;
+	font-family: Lucida Bright;
+}
+.jumbotron h2{
+	color: white;
+	text-align: center;
+}
+.jumbotron p{
+	color: white;
+	text-align: left;
+	margin-left: 30%;
+	font-family: ;
+}
+.jumbotron img{
+		width: 30px;
+height: 30px;
+}
+.jumbotron span{
+	font-size: 30px;
+}
+.sub h2{
+	text-align: center;
+}
+
+.carousel-inner img{
+	width: 1200px;
+	height: 820px;
+}
