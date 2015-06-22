@@ -1,29 +1,38 @@
 
-.row1 img{
-	width: 80px;
-height: 80px;
+.jumbotron img{
+width: 230px;
+height: 266px;
 }
-.row1 li1{
-text-align: center;
-margin-left: 38%;
+.row1 {
+	text-align: right;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 }
-.row1 li2{
-text-align: center;
-margin-left: 1%;
+.row1 ul a{
+margin-right: 5%;
+color: black;
+font-size: 22px;
 }
-.row1 li3{
-text-align: center;
-margin-left: 1%;
+/*.row1 li2 {
+margin-right: 2%;
 }
+.row1 li3 {
+margin-right: 1%;
+height: 0px;
+}*/
 
 .jumbotron{
 	height: auto;
-	background-image-size: auto;
+	background-image: url("jumbotronbackground.jpg");
+	text-align: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	color: white;	
 }
 .jumbotron h1{
 	text-align: center;
 	font-size: 60px;
-	font-family: Lucida Bright;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+
 }
 .jumbotron h2{
 	text-align: center;
@@ -31,11 +40,17 @@ margin-left: 1%;
 .jumbotron p{
 	text-align: left;
 	margin-left: 30%;
-	font-family: ;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 }
-.jumbotron img{
-		width: 30px;
-height: 30px;
+.top a{
+	color: white;
+}
+.top{
+	color: white;
+}
+.top img{
+		width: 50px;
+height: 50px;
 }
 .jumbotron span{
 	font-size: 30px;
@@ -45,21 +60,30 @@ height: 30px;
 }
 
 .carousel-inner img{
-	width: 1200px;
-	height: 820px;
+	width: 900px;
+	height: 713px;
 }
 
 .Projects h4{
 	text-align: center;
 	font-size: 60px;
-	font-family: Lucida Bright;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.Projects h5{
+	font-size: 20px;
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.Projects p{
+	text-align: center;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 }
 .Projects img{
-	width: 500px;
-	height: 350px;
+	width: 600px;
+	height: 395px;
 }
 .sub h2{
 	text-align: center;
 	font-size: 60px;
-	font-family: Lucida Bright;
+	font-family: "Comic Sans MS", cursive, sans-serif;
 }
